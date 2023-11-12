@@ -58,7 +58,7 @@ Ensure to close the video display window after the script finishes executing.
 cv2.destroyAllWindows()
 ```
 
-Feel free to customize the script according to your requirements. For more details about YOLOv8, refer to the [YOLOv8 GitHub repository](https://github.com/ultralytics/yolov5).
+Feel free to customize the script according to your requirements. For more details about YOLOv8, refer to the [YOLOv8 GitHub repository]([https://github.com/ultralytics/yolov5](https://github.com/ultralytics/ultralytics)).
 
 ---
 
