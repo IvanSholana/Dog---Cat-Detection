@@ -1,0 +1,4 @@
+train: X:\Kuliah\Mata Kuliah\Semester 5\Visi Komputer\Kuliah\Label Studio\Tugas\Dog & Cat Detection\train
+val: X:\Kuliah\Mata Kuliah\Semester 5\Visi Komputer\Kuliah\Label Studio\Tugas\Dog & Cat Detection\val
+nc: 2
+names: ["Cat", "Dog"]
