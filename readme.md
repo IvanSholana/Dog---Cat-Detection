@@ -1,7 +1,3 @@
-Certainly! Let's add some cool emojis to make it even more appealing:
-
----
-
 ## Object Detection in Video using YOLOv8 🚀
 
 This repository contains a Python script for performing object detection in a video using YOLOv8. The script uses the OpenCV library to read and write videos, and a YOLOv8 model for object detection.
